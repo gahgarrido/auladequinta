@@ -26,3 +26,4 @@ Opcional<br><br>
 
 ## PLANEJAMENTO ##
 
+<img src="https://github.com/gahgarrido/auladequinta/blob/master/spt2.png" alt="Smiley face" >
