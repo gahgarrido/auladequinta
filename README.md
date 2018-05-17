@@ -6,7 +6,7 @@ Jogo - Trabalho de Quinta
 Teremos nesa cidade
 
 Obrigatorio
-1 - 5 Edificios de 1 piso
+1 - 5 Edificios de 1 piso<br>
 2 - 3 Edificios de 2 pisos
 3 - Escola
 4 - Loja
