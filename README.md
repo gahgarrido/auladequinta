@@ -25,5 +25,14 @@ Opcional<br><br>
 
 
 ## PLANEJAMENTO ##
-
+Itens do Projeto <br>
+<img src="https://github.com/gahgarrido/auladequinta/blob/master/Item1.png" alt="Smiley face" >
+ <br> <br>
+ Recursos do Projeto <br>
+<img src="https://github.com/gahgarrido/auladequinta/blob/master/Item2.png" alt="Smiley face" >
+ <br> <br>
+ 
+<img src="https://github.com/gahgarrido/auladequinta/blob/master/spt1.png" alt="Smiley face" >
 <img src="https://github.com/gahgarrido/auladequinta/blob/master/spt2.png" alt="Smiley face" >
+<img src="https://github.com/gahgarrido/auladequinta/blob/master/spt3.png" alt="Smiley face" >
+
