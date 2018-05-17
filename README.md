@@ -5,6 +5,8 @@ Jogo - Trabalho de Quinta
 
 Teremos nesa cidade<br>
 
+## BACKLOG ##
+
 Obrigatorio<br><br>
 1 - 5 Edificios de 1 piso<br>
 2 - 3 Edificios de 2 pisos<br>
@@ -20,4 +22,7 @@ Opcional<br><br>
 1 - Cruzamento<br>
 2 - Parque<br>
 3 - Rio<br>
+
+
+## PLANEJAMENTO ##
 
