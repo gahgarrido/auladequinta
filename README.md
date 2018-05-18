@@ -36,3 +36,8 @@ Itens do Projeto <br>
 <img src="https://github.com/gahgarrido/auladequinta/blob/master/spt2.png" alt="Smiley face" >
 <img src="https://github.com/gahgarrido/auladequinta/blob/master/spt3.png" alt="Smiley face" >
 
+
+## PROJETO FINAL ##
+
+<img src="https://github.com/gahgarrido/auladequinta/blob/master/FINAL.jpg" alt="Smiley face" >
+
